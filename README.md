@@ -1,3 +1,8 @@
 # Journals
+This is my journal 
 
-Follow the steps detailed on D2L regarding journals.
+testing to make sure that I can push it up to the net
+
+
+Learning 
+# Python
